@@ -1,6 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    builder (3.2.2)
     diff-lcs (1.2.4)
     git (1.2.5)
     jeweler (1.8.4)
@@ -25,6 +26,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  builder
   bundler
   jeweler (~> 1.8.3)
   rdoc (~> 3.12)
